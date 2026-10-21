@@ -7,4 +7,4 @@ Entraînement solo du CP à la Terminale : QCM, calculs, associations, chronolog
 - Les profils et les progrès restent **sur l'appareil** (aucun compte, aucune donnée envoyée). Exportez-les depuis Réglages pour les sauvegarder ou les changer d'appareil.
 - Les questions fournies sont des brouillons originaux, non validés un à un par un enseignant.
 
-*Caribou Labs — CariSchool v1.3.0*
+*Caribou Labs — CariSchool v1.4.0*
