@@ -8,4 +8,4 @@ Entraînement solo du CP à la Terminale : QCM, calculs, associations, chronolog
 - L'interface s'adapte à l'âge (école, collège, lycée) : objectif du jour, répétition espacée, épreuves blanches notées sur 20, rappels de cours, dictées audio, lecture à voix haute, réglages d'accessibilité (police dyslexie, taille du texte, contraste) et bilan imprimable pour les parents.
 - Les questions fournies sont des brouillons originaux, non validés un à un par un enseignant.
 
-*Caribou Labs — CariSchool v2.0.0*
+*Caribou Labs — CariSchool v2.0.1*
